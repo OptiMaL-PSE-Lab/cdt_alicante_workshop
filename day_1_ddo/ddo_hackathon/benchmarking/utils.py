@@ -264,7 +264,7 @@ def ML4CE_uncon_graph_abs(
     # Set the font properties globally
     plt.rcParams.update(
         {
-            "text.usetex": True,
+            "text.usetex": False,
             "font.size": 28,
             "font.family": "lmr",
             "xtick.labelsize": 26,
